@@ -1,0 +1,10 @@
+{
+  "name": "PublishMD",
+  "version": "1.0.0",
+  "description": "A commandline tool to convert markdown files into ebooks.",
+  "main": "lib/index.js",
+  "repository": "https://github.com/Bstiler/PublishMD.git",
+  "author": "Bruno Gregório",
+  "license": "MIT",
+  "private": false
+}
